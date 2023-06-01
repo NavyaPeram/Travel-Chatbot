@@ -4,4 +4,4 @@ The scope of this chatbot is to assist users with their travel experience.
 Travelly provides extensive details about the best activities and restaurants in the destination.
 It uses voice to implement and deliver the information requested by the user.
 
-It is implemented by using pyttsx3, pywhatkit and GUI.
+It is implemented by using the libraries pyttsx3, pywhatkit and GUI.
